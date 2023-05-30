@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Test-Roman.Shauk/static/css/main.f666e15f.css",
+    "main.js": "/Test-Roman.Shauk/static/js/main.aa772cbf.js",
+    "index.html": "/Test-Roman.Shauk/index.html",
+    "main.f666e15f.css.map": "/Test-Roman.Shauk/static/css/main.f666e15f.css.map",
+    "main.aa772cbf.js.map": "/Test-Roman.Shauk/static/js/main.aa772cbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f666e15f.css",
+    "static/js/main.aa772cbf.js"
+  ]
+}
