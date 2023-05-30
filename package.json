@@ -21,8 +21,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
+  "homepage": "https://serhiichuiko.github.io/Test-Roman.Shauk",
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -42,6 +45,7 @@
     ]
   },
   "devDependencies": {
-    "@types/styled-components": "^5.1.26"
+    "@types/styled-components": "^5.1.26",
+    "gh-pages": "^5.0.0"
   }
 }
