@@ -1,0 +1,16 @@
+.moon {
+    margin-left: 50px;
+    min-width: 80px;
+    min-height: 80px;
+    border-radius: 50%;
+    background: darkblue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.active {
+    background: #ff6b00;
+}

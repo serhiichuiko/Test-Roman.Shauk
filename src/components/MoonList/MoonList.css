@@ -1,0 +1,24 @@
+
+.planetBlock {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 100px;
+}   
+
+
+.planet {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: silver;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.count {
+    margin-left: 5px;
+    color: #ff6b00;
+}
